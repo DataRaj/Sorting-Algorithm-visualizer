@@ -2,7 +2,7 @@
 This a simple yet one of the best example of how to use native DOM methods using Vanila javascript and create a dynamic data visualizing projects, this is a Sorting algorithms visual application. here a are bunch of sorting algorithms implements using Javascript
 # Sorting Algorithm Visualizer
 
-![Sorting Algorithm Visualizer](link-to-your-logo-or-screenshot.png)
+![Sorting Algorithm Visualizer](image.png)
 
 ## Overview
 
