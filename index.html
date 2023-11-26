@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sort Compars</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <!-- <link rel="stylesheet" href="design.css"> -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="title">Comparism Sorting Algorithms</div>
+        <nav><ul>
+            <li><button type="button" class="new">Randomize Array</button></li>
+            <li><button class="insertionSort">Insertion Sort  </button></li>
+            <li><button class="selectionSort">Selection Sort  </button></li>
+            <li><button class="bubbleSort">Bubble Sort     </button></li>
+            <li><button class="quickSort">Quick Sort      </button></li>
+            <li><button class="mergeSort">Merge Sort      </button></li>
+            <li><button class="heapSort">Shell Sort      </button></li>
+            <li><button class="changeSort">Change Sort     </button></li>
+        </ul></nav>
+    </header>
+    <main>
+        <div id="sorting" class="flex-container"></div>
+    </main>
+    <footer>
+        <nav>
+                <ul>
+                    <li><button >Skip back    </button></li>
+                    <li><button>Step back    </button></li>
+                    <li><button class="stop">Pause        </button></li>
+                    <li><button>Step Forward </button></li>
+                    <li><button>Skip Forward </button></li>
+                </ul>
+                <div class="slidecontainer">
+                    <input type="range" min="1" max="100" value="50" class="slider" id="speed_input">
+                </div>
+                <strong>w:</strong>
+                <input type="text" class="w" >
+                <strong>h:</strong>
+                <input type="text" id="h">
+                <li><button>Change the canvas</button></li>
+                <li><button>Move Control</button></li>
+        </nav>
+        <div class="title"><h1>Algorithms Visualization</h1></div>
+    </footer>
+    <!-- <script src="sorting.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+    <script src="sorting.js" async defer></script>
+    <script src="components/bubbleSort.js" async defer></script>
+    <script src="components/mergeSort.js" async defer></script>
+    <script src="components/selectionSort.js" async defer></script>
+    <script src="components/quickSort.js" async defer></script>
+    <script src="components/insertionSort.js" async defer></script>
+    <script src="components/heapSort.js" async defer></script>
+</body>
+</html>
