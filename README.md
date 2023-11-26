@@ -27,21 +27,7 @@ To run the Sorting Algorithm Visualizer locally, follow these steps:
 2. Navigate to the project directory: `cd sorting-algorithm-visualizer`
 3. Open `index.html` in your preferred web browser.
 
-## Contributing
-
-We welcome contributions! If you want to add new features, improve existing code, or fix bugs, please follow our [contribution guidelines](link-to-contribution-guidelines).
-
 ## Technologies Used
 
 - HTML5, CSS3, JavaScript
-- [Library/Framework Used, e.g., React, Vue, D3]
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](link-to-license-file) file for details.
-
-## Acknowledgments
-
-- Special thanks to [Author Name] for the inspiration and guidance.
-
-Feel free to explore, learn, and contribute!
+- 
