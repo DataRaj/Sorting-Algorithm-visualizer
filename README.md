@@ -30,4 +30,3 @@ To run the Sorting Algorithm Visualizer locally, follow these steps:
 ## Technologies Used
 
 - HTML5, CSS3, JavaScript
-- 
