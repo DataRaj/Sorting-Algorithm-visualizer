@@ -30,3 +30,9 @@ To run the Sorting Algorithm Visualizer locally, follow these steps:
 ## Technologies Used
 
 - HTML5, CSS3, JavaScript
+
+# Progress
+- I have almost completed this application but yet functionality aren't implied
+- **change Sort** button   is not implemented yet.
+- **skip** buttons are not implemented yet.
+- **step** buttons are not implemented yet.
